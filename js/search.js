@@ -2,7 +2,7 @@
 
 /* #region URL Searching 
  * So, basically, this allows for passing values into the URL as query
- * parameters. E.g https://ourexams.org/?q=Business+Studies` will automatically
+ * parameters. E.g https://ourexam.org/?q=Business+Studies` will automatically
  * load and show the search results for "English". */
 var search_parameters = {};
 

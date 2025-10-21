@@ -42,7 +42,7 @@ be any good.
 - [ ] Feature: "Search" button. Thankfully, this should be easy, at least to
       code.[^2]
 - [ ] Feature: URL params for direct searching, such as
-      <http://ourexams.org/?q=Digital Technology&mincredits=3&levels=[2,3]>.
+      <http://ourexam.org/?q=Digital Technology&mincredits=3&levels=[2,3]>.
 - [ ] Searchbar in general.
 - [ ] Feature: New glass screen: filter-select.[^1]
 - [ ] Feature: autocomplete shows multiple suggestions.
